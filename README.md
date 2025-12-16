@@ -1,6 +1,5 @@
 | 项目 | v2ray | clash | singbox |
 | :----- | :----- | :----- | :----- |
-| [free-nodes/v2rayfree](https://github.com/free-nodes/v2rayfree) | https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v2 |  |  |
 | [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) | https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub |  |  |
 | [ts-sf/fly](https://github.com/ts-sf/fly) | https://raw.githubusercontent.com/ts-sf/fly/main/v2 | https://raw.githubusercontent.com/ts-sf/fly/main/clash |  |
 | [Flikify/Free-Node](https://github.com/Flikify/Free-Node) | https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt | https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml |  | 
