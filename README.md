@@ -2,7 +2,6 @@
 | :----- | :----- | :----- | :----- |
 | [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) |  | https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub |  |
 | [ts-sf/fly](https://github.com/ts-sf/fly) | https://raw.githubusercontent.com/ts-sf/fly/main/clash | https://raw.githubusercontent.com/ts-sf/fly/main/v2 |  |
-| [Flikify/Free-Node](https://github.com/Flikify/Free-Node) | https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml | https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt |  | 
 | [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) | https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml | https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt |  | 
 | [free18/v2ray](https://github.com/free18/v2ray) | https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml | https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt |  |
 | [snakem982/proxypool](https://github.com/snakem982/proxypool) | https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml | https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt |  |
